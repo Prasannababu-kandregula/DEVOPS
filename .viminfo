@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1654427755,,"wq"
 :q
 |2,0,1654426901,,"q"
-:wq
-|2,0,1654426894,,"wq"
 :WQ
 |2,0,1654424365,,"WQ"
 
@@ -29,20 +29,28 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/.git/COMMIT_EDITMSG
-|4,48,2,0,1654426656,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1654426414,"~/.git/COMMIT_EDITMSG"
+'0  1  9  ~/file4
+|4,48,1,9,1654427755,"~/file4"
+'1  2  0  ~/.git/COMMIT_EDITMSG
+|4,49,2,0,1654426656,"~/.git/COMMIT_EDITMSG"
 '2  1  0  ~/.git/COMMIT_EDITMSG
 |4,50,1,0,1654426414,"~/.git/COMMIT_EDITMSG"
-'3  1  27  ~/file3
-|4,51,1,27,1654426285,"~/file3"
-'4  1  30  ~/marriage
-|4,52,1,30,1654425916,"~/marriage"
-'5  1  21  ~/Pr1
-|4,53,1,21,1654424429,"~/Pr1"
+'3  1  0  ~/.git/COMMIT_EDITMSG
+|4,51,1,0,1654426414,"~/.git/COMMIT_EDITMSG"
+'4  1  27  ~/file3
+|4,52,1,27,1654426285,"~/file3"
+'5  1  30  ~/marriage
+|4,53,1,30,1654425916,"~/marriage"
+'6  1  21  ~/Pr1
+|4,54,1,21,1654424429,"~/Pr1"
 
 # Jumplist (newest first):
+-'  1  9  ~/file4
+|4,39,1,9,1654427755,"~/file4"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1654426656,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1654426656,"~/.git/COMMIT_EDITMSG"
 -'  2  0  ~/.git/COMMIT_EDITMSG
 |4,39,2,0,1654426656,"~/.git/COMMIT_EDITMSG"
 -'  2  0  ~/.git/COMMIT_EDITMSG
@@ -51,6 +59,14 @@
 |4,39,1,0,1654426640,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1654426640,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1654426640,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1654426640,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1654426414,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1654426414,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1654426414,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -71,6 +87,22 @@
 |4,39,1,27,1654426285,"~/file3"
 -'  1  27  ~/file3
 |4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
+-'  1  27  ~/file3
+|4,39,1,27,1654426285,"~/file3"
 -'  1  30  ~/marriage
 |4,39,1,30,1654425916,"~/marriage"
 -'  1  30  ~/marriage
@@ -103,6 +135,52 @@
 |4,39,1,30,1654425916,"~/marriage"
 -'  1  30  ~/marriage
 |4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  30  ~/marriage
+|4,39,1,30,1654425916,"~/marriage"
+-'  1  21  ~/Pr1
+|4,39,1,21,1654424429,"~/Pr1"
+-'  1  21  ~/Pr1
+|4,39,1,21,1654424429,"~/Pr1"
+-'  1  21  ~/Pr1
+|4,39,1,21,1654424429,"~/Pr1"
+-'  1  21  ~/Pr1
+|4,39,1,21,1654424429,"~/Pr1"
+-'  1  21  ~/Pr1
+|4,39,1,21,1654424429,"~/Pr1"
+-'  1  21  ~/Pr1
+|4,39,1,21,1654424429,"~/Pr1"
+-'  1  21  ~/Pr1
+|4,39,1,21,1654424429,"~/Pr1"
 -'  1  21  ~/Pr1
 |4,39,1,21,1654424429,"~/Pr1"
 -'  1  21  ~/Pr1
@@ -169,6 +247,13 @@
 |4,39,1,21,1654424429,"~/Pr1"
 
 # History of marks within files (newest to oldest):
+
+> ~/file4
+	*	1654427752	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
 
 > ~/.git/COMMIT_EDITMSG
 	*	1654426652	0
