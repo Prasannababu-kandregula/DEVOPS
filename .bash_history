@@ -54,3 +54,14 @@ git restore marriage
 git marriage
 git status
 vim
+git status
+git commit -m " it should b done" .
+git status
+ll - al
+ll
+ls -al
+git status
+git add .
+git commit -m "Commit 3" .
+git status
+git log
