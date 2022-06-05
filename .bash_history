@@ -119,3 +119,7 @@ git status
 git commit -m "for all" .
 git status
 git log
+git status
+git commit -m "how many times" .
+git status
+git log
