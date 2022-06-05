@@ -65,3 +65,7 @@ git add .
 git commit -m "Commit 3" .
 git status
 git log
+git status
+git commit -m "all clear" .
+git status
+git log
