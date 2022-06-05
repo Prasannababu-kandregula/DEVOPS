@@ -69,3 +69,53 @@ git status
 git commit -m "all clear" .
 git status
 git log
+yum install git-y
+version
+sudi -i
+git --version
+ll
+ls -al
+git init .
+ls -al
+ll
+ls =al
+ls-al
+ls -al
+touch Pr1
+ll
+vim Pr1
+ll
+cat Pr1
+ll
+ls -al
+git ad  Pr1
+git add Pr1
+git status
+git add.
+git add .
+git status
+git commit -m "First commit" Pr1
+git log
+touch Pr2
+git status
+git add .
+git commit -m "Secod Commit"
+git status
+git log
+git status
+git add .
+git commit -a " all" .
+git commit -m "all" .
+git ststus
+git status
+touch file4
+ls -al
+vim file4
+cat file4
+git add file4
+ls -al
+git commit -m " commit for file 4" file4
+git status
+git commit -m "for all" .
+git status
+git log
