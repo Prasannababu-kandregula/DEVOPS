@@ -123,3 +123,12 @@ git status
 git commit -m "how many times" .
 git status
 git log
+git status
+ll
+ls -al
+git commit -a .
+git commit -m .
+git commit "??" .
+git commit -m "??" .
+git status
+git status
