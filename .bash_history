@@ -188,3 +188,14 @@ ll
 git brach
 git branch
 git push -u origin branch3
+ll
+ls
+git branch
+git ls
+ls
+ll
+ls -al
+clear
+ls
+vim anakaplle
+cat
