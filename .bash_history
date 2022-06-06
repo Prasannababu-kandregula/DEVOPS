@@ -132,3 +132,59 @@ git commit "??" .
 git commit -m "??" .
 git status
 git status
+git status
+git remote add origin https://github.com/Prasannababu-kandregula/DEVOPS.git
+git branch
+git push -u origin master
+git status
+l
+git branch
+ll
+ls -al
+git status
+git commit -m "bash histoty commit 1" 
+git commit -m " bash history commit1"  .
+git status
+git branch
+git branch branch1
+git branch
+git checkout branch1
+
+git checkout branch1
+ll
+touch file5
+git checkout master
+git branch
+ll
+git checkout master
+git checkout branch1
+ll
+git status
+git add file5
+git commit -m"file5 commit" .
+git branch
+git push -u origin branch1
+git checkout master
+ll
+touch file7
+touch file8
+touch file9
+git add .
+git commit -m "main commits" .
+git push -u origin master
+checkout -b branch3
+git checkout -b branch3
+ll
+git push -u origin branc3
+git push -u origin branch3
+git branch
+git checkout master
+ll
+git checkout branch3
+touch uday
+git add .
+git commit -m "Branch3 Commit" .
+ll
+git brach
+git branch
+git push -u origin branch3
